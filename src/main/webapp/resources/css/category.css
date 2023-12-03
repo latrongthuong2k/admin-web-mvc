@@ -1,0 +1,21 @@
+.main{
+    width: 100%;
+    height: 500px;
+}
+
+.modalSet{
+    width:800px ;
+    height: 350px;
+}
+.modalSetDelete{
+    width:400px ;
+    height: 250px;
+}
+a{
+    text-decoration:none;
+}
+
+::placeholder { /* chạy tốt trên Chrome, Firefox, Opera, Safari 10.1+ */
+    color: orange;
+    opacity: 1; /* Firefox */
+}

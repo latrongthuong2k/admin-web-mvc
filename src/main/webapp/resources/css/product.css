@@ -1,0 +1,21 @@
+.main{
+    width: 100%;
+    height: 500px;
+}
+
+.modalSetProduct{
+    width:800px ;
+    height: 600px;
+}
+.modalSetDelete{
+    width:400px ;
+    height: 250px;
+}
+a{
+    text-decoration:none;
+}
+
+.imageProduct{
+    width: 100px;
+    height: 100px;
+}
